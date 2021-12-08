@@ -1,2 +1,1 @@
-# teste-de-python
-Programas onde eu testo alguns conceitos
+# Programas mais completos que eu faço usando Python
