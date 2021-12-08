@@ -1,0 +1,6 @@
+Limão;20;5.0
+Melancia;0;12.5
+Laranja;0;3.0
+Abacaxi;0;14.9
+Mamão;0;9.9
+Morango;0;9.9
